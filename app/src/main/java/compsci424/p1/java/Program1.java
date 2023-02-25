@@ -17,7 +17,7 @@ package compsci424.p1.java;
  */
 public class Program1 {
     // Declare any class/instance variables that you need here.
-
+       //
     /**
      * @param args command-line arguments, which can be ignored
      */
